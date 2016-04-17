@@ -42,6 +42,11 @@ font-size: 5rem;
 display:block;
 float:none;
 }
+
+.marketing.row h3
+	text-align: center;
+	margin: 0 auto;
+	}
 .menu{ min-height: 700px;
 padding: 2rem;
 
