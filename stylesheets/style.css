@@ -5,7 +5,8 @@
     font-family: 'Fjalla One', sans-serif;
 	padding: 4rem;
 	}
-	
+.nav > li > a{		text-align: center;
+	margin: 0 auto;}
 .navbar-toggle span{background-color: #E75926}
 .navbar-wrapper{background:#222;}
 .nav > li > a:focus, .nav > li > a:hover { color: #333; background-color: #E75926}
@@ -31,7 +32,7 @@ font-size: 5rem;
 			padding-top: 10%;
 		}
 	
-	} .marketing .row img{
+.marketing .row img{
 	border: 10px ridge #E75926;
 	
 	}
