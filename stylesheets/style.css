@@ -19,8 +19,17 @@
 	width: 100%!important;
 	min-width: 100%!important;
 	max-width: 100%!important;
-	
-	
+	  }
+		#topl {
+font-size: 5rem;
+	 color:#E75926;
+
+		}
+		#topl span{
+		display: block;
+			font-size: 25rem;
+			padding-top: 10%;
+		}
 	
 	} .marketing .row img{
 	border: 10px ridge #E75926;
